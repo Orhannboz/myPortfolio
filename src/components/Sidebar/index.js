@@ -39,7 +39,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.w3schools.com"
+            href="https://www.linkedin.com/in/orhan-boz-15505422b/"
             className="fa fa-linkedin"
           ></a>
         </li>
@@ -47,7 +47,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.w3schools.com"
+            href="https://github.com/Orhannboz"
             className="fa fa-github"
           ></a>
         </li>
